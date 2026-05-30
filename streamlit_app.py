@@ -182,7 +182,7 @@ with tabs[0]:
     st.markdown("""
     <div class="hero">
         <div class="hero-tag">ECCHHO Media · Prepared for OpenAI Leadership</div>
-        <div class="hero-h1">Stop targeting the wealthy.<br>Target the people whose reputations ride on being right.</div>
+        <div class="hero-h1">Target the people whose reputations ride on being right..</div>
         <div class="hero-sub">AI Consumer Behavior Study · N=982 cleaned respondents · Spring 2026</div>
         <div class="hero-team">Team: Elina · Hanqi · Chunfei · Hojin · Charlotte</div>
     </div>
